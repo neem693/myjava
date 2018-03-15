@@ -1,0 +1,12 @@
+package java_day02;
+
+public class HelloWorld {
+//메인메소드(기능)
+//메소드명()
+	public static void main(String[] args) {
+		//객체지향적
+		System.out.println("HelloWorld...");
+		
+	}
+	
+}
