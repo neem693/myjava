@@ -8,8 +8,6 @@ public class HelloWorld {
 		System.out.println("HelloWorld...");
 		//HelloWorldSub의 sub() 호출하여 실행시킴
 		Hws.sub();
-		//JVM메소드의 { }에 작성된 코드를 실행
-		System.out.println("ByeWorld");
 	}
 	
 }
