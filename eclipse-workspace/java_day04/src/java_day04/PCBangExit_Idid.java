@@ -3,16 +3,22 @@ package java_day04;
 import java.util.Calendar;
 import java.util.Scanner;
 
-public class HomeWork {
+public class PCBangExit_Idid {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//입력변수 --------------------
 		Scanner console = new Scanner(System.in);
 		int age;
-		String allowPc;
 		//int hour = Calendar.getInstance().get(Calendar.HOUR_OF_DAY);
 		int hour = 23;
 		int minute = Calendar.getInstance().get(Calendar.MINUTE);
+		//---------------------------
+		
+		//출력변수-----------------------
+		String allowPc;
+		//-----------------------------
+		
 		System.out.print("나이를 입력하세요:");
 		age = console.nextInt();
 		console.close();
