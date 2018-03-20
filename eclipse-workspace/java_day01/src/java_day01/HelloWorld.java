@@ -7,7 +7,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		Scanner console = new Scanner(System.in);
 		System.out.print("C:\\Users\\inc>");
-		String s=console.next();
+		int s=console.nextInt();
 		System.out.println(s);
 		System.out.println(" C:\\Users\\inc 디렉터리\r\n" + 
 				"\r\n" + 
