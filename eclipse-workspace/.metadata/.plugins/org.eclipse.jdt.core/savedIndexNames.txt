@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 INDEX VERSION 1.130+E:\github\myjava\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
 592600685.index
+=======
+INDEX VERSION 1.130+C:\myjava\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+421022922.index
+2916426105.index
+4198948836.index
+1055679481.index
+1679968839.index
+3693261185.index
+4232500288.index
+>>>>>>> 528261a2ba99d8892e331b68a3187955fbdeb927
 3637040476.index
 3947521672.index
 1580166048.index
