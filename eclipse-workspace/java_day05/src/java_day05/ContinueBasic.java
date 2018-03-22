@@ -12,24 +12,24 @@ public class ContinueBasic {
 		String s;
 		Scanner console = new Scanner(System.in);
 		// 반복 시작문
-		do{
+		do {
 			System.out.print("정수>>");
 			num = console.nextInt();
 			if (num <= 0) {
 				System.out.print("양수만 입력가능");
 				continue;
 			}
-				System.out.println(num);
-				System.out.print("프로그램 종료?(y/n)>>");
-				s= console.next();
-				if(s.equals("y")) {
-					System.out.println("프로그램 정상종료");
-					break;
-				}else {
-					continue;
-				}
+			System.out.println(num);
+			System.out.print("프로그램 종료?(y/n)>>");
+			s = console.next();
+			if (s.equals("y")) {
+				System.out.println("프로그램 정상종료");
+				break;
+			} else {
+				continue;
+			}
 			// 반복할 마지막문---
-		}while(input);
+		} while (input);
 	}
 
 }
